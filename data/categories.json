@@ -1,0 +1,216 @@
+[
+  {
+    "id": 1,
+    "picture": "https://img.freepik.com/free-photo/young-confident-caucasian-cook-girl-chef-uniform-crosses-arms-looks-camera-isolated-violet-wall-with-copy-space_141793-33151.jpg?size=626&ext=jpg&ga=GA1.2.1886416881.1678857576&semt=ais",
+    "name": "Chef Fahmida",
+    "bio": "Chef Fahmida is a well-known Bangladeshi chef who has been cooking for over 20 years. She specializes in traditional Bangladeshi cuisine, and has won numerous awards for her cooking.",
+    "years_of_experience": 20,
+    "num_recipes": 50,
+    "likes": 5000,
+    "recipes": [
+      {
+        "name": "Bengali Fish Curry",
+        "ingredients": ["fish", "mustard oil", "onion", "garlic", "ginger"],
+        "cooking_method": "1. Heat mustard oil in a pan, add onion, garlic and ginger, fry until golden brown. 2. Add the fish and cook for 5 minutes. 3. Add water, salt, turmeric powder and chili powder. 4. Simmer for 10-15 minutes until the fish is cooked. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chingri Malai Curry",
+        "ingredients": [
+          "prawns",
+          "coconut milk",
+          "green chilies",
+          "ginger",
+          "garlic"
+        ],
+        "cooking_method": "1. Heat oil in a pan, add green chilies, ginger and garlic, fry for a few seconds. 2. Add prawns and cook for 5 minutes. 3. Add coconut milk, salt and sugar. 4. Simmer for 10 minutes. Serve hot.",
+        "rating": 4.7
+      },
+      {
+        "name": "Dhaka Style Beef Curry",
+        "ingredients": ["beef", "yogurt", "cumin", "coriander", "mustard oil"],
+        "cooking_method": "1. Marinate beef with yogurt, cumin, coriander and salt for at least 1 hour. 2. Heat mustard oil in a pan, add beef and cook for 10-15 minutes. 3. Add water, cover and simmer for 30 minutes. 4. Garnish with coriander leaves. Serve hot.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "picture": "https://img.freepik.com/free-photo/portrait-young-male-baker-with-his-arms-crossed-looking-camera_23-2148189025.jpg?w=360&t=st=1683022146~exp=1683022746~hmac=622f4d8b4937492f2eeb1610f2fedfde3643e46701b3956edcec52ff9211847c",
+    "name": "Chef Tariq",
+    "bio": "Chef Tariq is a rising star in the Bangladeshi culinary world. He has been cooking for 7 years and is known for his modern twists on traditional Bangladeshi dishes.",
+    "years_of_experience": 7,
+    "num_recipes": 20,
+    "likes": 2500,
+    "recipes": [
+      {
+        "name": "Spicy Chicken Roast",
+        "ingredients": [
+          "chicken",
+          "red chili powder",
+          "cumin",
+          "coriander",
+          "yogurt"
+        ],
+        "cooking_method": "1. Marinate chicken with red chili powder, cumin, coriander and yogurt for at least 1 hour. 2. Heat oil in a pan, add chicken and cook for 15-20 minutes. 3. Garnish with coriander leaves. Serve hot.",
+        "rating": 4.6
+      },
+      {
+        "name": "Smashed Potato",
+        "ingredients": [
+          "Potato",
+          "red chili powder",
+          "Salt",
+          "coriander",
+          "Onion"
+        ],
+        "cooking_method": "1. Marinate chicken wit, cumin, coriander and yogurt for at least 1 hour. 2. Heat oil in a pan, add chicken and cook for 15-20 minutes. 3. Garnish with coriander leaves. Serve hot.",
+        "rating": 4.6
+      },
+      {
+        "name": "Beef Bhuna",
+        "ingredients": ["beef", "onion", "garlic", "ginger", "tomato"],
+        "cooking_method": "1. Heat oil in a pan, add onion, garlic and ginger, fry until golden brown. 2. Add beef and cook for 10-15 minutes. 3. Add tomato, salt, turmeric powder and chili powder. 4. Simmer for 30-35 minutes until the beef is cooked. Serve hot.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "picture": "https://media.istockphoto.com/id/1309491816/photo/beautiful-young-asian-woman-chef-on-white-background.jpg?s=612x612&w=0&k=20&c=rQqTLj8qU2oYJ69JVqRYlRu2c20HMeBl2yA3PQsDPbI=",
+    "name": "Chef Farzana",
+    "bio": "Chef Farzana is a popular Bangladeshi chef with over 15 years of experience in the culinary industry. She specializes in creating fusion dishes that combine traditional Bangladeshi flavors with modern cooking techniques.",
+    "years_of_experience": 15,
+    "num_recipes": 75,
+    "likes": 8000,
+    "recipes": [
+      {
+        "name": "Chapli Kebab",
+        "ingredients": ["minced beef", "cumin", "coriander", "onion", "tomato"],
+        "cooking_method": "1. Mix all the ingredients together in a bowl. 2. Form the mixture into small patties. 3. Heat oil in a pan and cook the patties until they are browned on both sides. Serve hot.",
+        "rating": 4.8
+      },
+      {
+        "name": "Bengali Shrimp Scampi",
+        "ingredients": ["shrimp", "butter", "garlic", "lemon juice", "parsley"],
+        "cooking_method": "1. Heat butter in a pan, add garlic and cook for a few seconds. 2. Add shrimp and cook for 2-3 minutes until they turn pink. 3. Add lemon juice and parsley, and stir to combine. Serve hot.",
+        "rating": 4.6
+      },
+      {
+        "name": "Bhapa Doi",
+        "ingredients": [
+          "yogurt",
+          "condensed milk",
+          "cardamom",
+          "pistachios",
+          "rose petals"
+        ],
+        "cooking_method": "1. Mix yogurt, condensed milk and cardamom in a bowl. 2. Pour the mixture into a baking dish and cover with foil. 3. Steam for 30-40 minutes. 4. Garnish with pistachios and rose petals. Chill before serving.",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "picture": "https://ibtbd.net/wp-content/uploads/2019/11/Chef-Moniruzzaman.jpg",
+    "name": "Chef Karim",
+    "bio": "Chef Karim is a talented Bangladeshi chef with a passion for creating flavorful and aromatic dishes. He has over 12 years of experience in the culinary industry and is known for his expertise in using spices and herbs to enhance the taste of his dishes.",
+    "years_of_experience": 12,
+    "num_recipes": 60,
+    "likes": 6000,
+    "recipes": [
+      {
+        "name": "Machher Jhol",
+        "ingredients": ["fish", "onion", "garlic", "ginger", "green chili"],
+        "cooking_method": "1. Heat oil in a pan, add onion, garlic and ginger, fry until golden brown. 2. Add fish and cook for 5-7 minutes. 3. Add green chili, salt, turmeric powder and water. 4. Simmer for 10-12 minutes until the fish is cooked. Serve hot with rice.",
+        "rating": 4.5
+      },
+      {
+        "name": "Kosha Mangsho",
+        "ingredients": ["beef", "onion", "ginger", "garlic", "yogurt"],
+        "cooking_method": "1. Heat oil in a pan, add onion, ginger and garlic, fry until golden brown. 2. Add beef and cook for 10-15 minutes. 3. Add yogurt, salt, cumin powder, coriander powder and red chili powder. 4. Simmer for 30-35 minutes until the beef is tender. Serve hot with naan or rice.",
+        "rating": 4.8
+      },
+      {
+        "name": "Mishti Doi",
+        "ingredients": ["milk", "yogurt", "sugar"],
+        "cooking_method": "1. Boil milk in a pan, then let it cool down. 2. Add yogurt and sugar to the milk, mix well. 3. Pour the mixture into small clay pots. 4. Place the pots in a warm place and let the mixture ferment for 6-8 hours. 5. Chill before serving.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "picture": "https://media.istockphoto.com/id/1299940945/photo/woman-chef-holding-spatula-cooking-equipment.jpg?s=612x612&w=0&k=20&c=BmOEpgaHKlMtJ19Q8pb2e1stMkN-oS4AF6PtuZ2T954=",
+    "name": "Chef Nazia",
+    "bio": "Chef Nazia is a passionate Bangladeshi chef with a unique approach to traditional cuisine. She has over 8 years of experience in the culinary industry and is known for her creative use of local ingredients to create new and exciting dishes.",
+    "years_of_experience": 8,
+    "num_recipes": 40,
+    "likes": 4000,
+    "recipes": [
+      {
+        "name": "Morog Polao",
+        "ingredients": ["chicken", "basmati rice", "onion", "ginger", "garlic"],
+        "cooking_method": "1. Marinate the chicken with yogurt, salt, turmeric and chili powder. 2. Soak the rice in water for 20-30 minutes. 3. Heat oil in a pan, add onion, ginger and garlic, fry until golden brown. 4. Add the marinated chicken and cook for 25 minutes. 5.Ready to eat after finished all process.",
+        "rating": 4.8
+      },
+      {
+        "name": "Fish Bhuna",
+        "ingredients": ["fish", "onion", "garlic", "ginger", "tomato"],
+        "cooking_method": "1. Heat oil in a pan, add onion, garlic and ginger, fry until golden brown. 2. Add fish and cook for 5-7 minutes. 3. Add tomato, salt, turmeric powder and water. 4. Simmer for 10-12 minutes until the fish is cooked. Serve hot with rice or naan.",
+        "rating": 4.2
+      },
+      {
+        "name": "Bhapa Doi",
+        "ingredients": ["milk", "yogurt", "sugar", "cardamom", "rose water"],
+        "cooking_method": "1. Boil milk in a pan, then let it cool down. 2. Add yogurt, sugar, cardamom and rose water to the milk, mix well. 3. Pour the mixture into a greased dish. 4. Place the dish in a steamer and steam for 15-20 minutes. 5. Chill before serving.",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5347.jpg?w=1060&t=st=1683131793~exp=1683132393~hmac=e90c8c6c494d9fbd787ac636eeb4537647a7e9af4cccbdb9ed1e488470ac73ea",
+    "name": "Chef Shahidul Alam",
+    "bio": "Chef Shahidul Alam is a renowned Bangladeshi chef who has over 20 years of experience in the culinary industry. He has worked in various high-end restaurants in Bangladesh, and is known for his creative fusion dishes that blend traditional Bangladeshi flavors with modern techniques.",
+    "years_of_experience": 20,
+    "num_recipes": 45,
+    "likes": 4500,
+    "recipes": [
+      {
+        "name": "Beef Bhuna Khichuri",
+        "ingredients": [
+          "beef",
+          "rice",
+          "lentil",
+          "onion",
+          "garlic",
+          "ginger",
+          "tomato"
+        ],
+        "cooking_method": "1. Heat oil in a pan, add onion, garlic and ginger, fry until golden brown. 2. Add beef and cook for 10-12 minutes. 3. Add rice, lentil, salt, turmeric powder and water. 4. Simmer for 25-30 minutes until the rice and lentil are cooked. 5. Serve hot with salad and pickle.",
+        "rating": 4.6
+      },
+      {
+        "name": "Prawn Malai Curry",
+        "ingredients": [
+          "prawn",
+          "coconut milk",
+          "onion",
+          "garlic",
+          "ginger",
+          "chili",
+          "coriander"
+        ],
+        "cooking_method": "1. Heat oil in a pan, add onion, garlic, ginger and chili, fry until golden brown. 2. Add prawn and cook for 5-7 minutes. 3. Add coconut milk, salt, turmeric powder and coriander, bring to a boil. 4. Simmer for 10-12 minutes until the prawn is cooked. Serve hot with rice or naan.",
+        "rating": 4.8
+      },
+      {
+        "name": "Mango Lassi",
+        "ingredients": ["mango", "yogurt", "milk", "sugar", "cardamom"],
+        "cooking_method": "1. Peel and chop mango into small pieces. 2. Blend mango, yogurt, milk, sugar and cardamom in a blender until smooth. 3. Pour the mixture into glasses. 4. Chill before serving.",
+        "rating": 4.5
+      }
+    ]
+  }
+]
