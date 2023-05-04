@@ -14,6 +14,12 @@ app.get('/', (req, res) =>{
 app.get('/categories', (req, res) =>{
     res.send(categories);
 })
+app.get('/categories/:id', (req, res) =>{
+    const id = req.params.id;
+    const singleChef = categories.find(pd => pd.id == id);
+    res.send({singleChef});
+    console.log(singleChef);
+})
 
 app.listen(port, () => {
     console.log(`Chef is running on port: ${port}`);

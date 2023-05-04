@@ -9,12 +9,14 @@
     "likes": 5000,
     "recipes": [
       {
+        "id": 1,
         "name": "Bengali Fish Curry",
         "ingredients": ["fish", "mustard oil", "onion", "garlic", "ginger"],
         "cooking_method": "1. Heat mustard oil in a pan, add onion, garlic and ginger, fry until golden brown. 2. Add the fish and cook for 5 minutes. 3. Add water, salt, turmeric powder and chili powder. 4. Simmer for 10-15 minutes until the fish is cooked. Serve hot.",
         "rating": 4.5
       },
       {
+        "id": 2,
         "name": "Chingri Malai Curry",
         "ingredients": [
           "prawns",
@@ -27,6 +29,7 @@
         "rating": 4.7
       },
       {
+        "id": 3,
         "name": "Dhaka Style Beef Curry",
         "ingredients": ["beef", "yogurt", "cumin", "coriander", "mustard oil"],
         "cooking_method": "1. Marinate beef with yogurt, cumin, coriander and salt for at least 1 hour. 2. Heat mustard oil in a pan, add beef and cook for 10-15 minutes. 3. Add water, cover and simmer for 30 minutes. 4. Garnish with coriander leaves. Serve hot.",
@@ -44,6 +47,7 @@
     "likes": 2500,
     "recipes": [
       {
+        "id": 1,
         "name": "Spicy Chicken Roast",
         "ingredients": [
           "chicken",
@@ -56,6 +60,7 @@
         "rating": 4.6
       },
       {
+        "id": 2,
         "name": "Smashed Potato",
         "ingredients": [
           "Potato",
@@ -68,6 +73,7 @@
         "rating": 4.6
       },
       {
+        "id": 3,
         "name": "Beef Bhuna",
         "ingredients": ["beef", "onion", "garlic", "ginger", "tomato"],
         "cooking_method": "1. Heat oil in a pan, add onion, garlic and ginger, fry until golden brown. 2. Add beef and cook for 10-15 minutes. 3. Add tomato, salt, turmeric powder and chili powder. 4. Simmer for 30-35 minutes until the beef is cooked. Serve hot.",
@@ -85,18 +91,21 @@
     "likes": 8000,
     "recipes": [
       {
+        "id": 1,
         "name": "Chapli Kebab",
         "ingredients": ["minced beef", "cumin", "coriander", "onion", "tomato"],
         "cooking_method": "1. Mix all the ingredients together in a bowl. 2. Form the mixture into small patties. 3. Heat oil in a pan and cook the patties until they are browned on both sides. Serve hot.",
         "rating": 4.8
       },
       {
+        "id": 2,
         "name": "Bengali Shrimp Scampi",
         "ingredients": ["shrimp", "butter", "garlic", "lemon juice", "parsley"],
         "cooking_method": "1. Heat butter in a pan, add garlic and cook for a few seconds. 2. Add shrimp and cook for 2-3 minutes until they turn pink. 3. Add lemon juice and parsley, and stir to combine. Serve hot.",
         "rating": 4.6
       },
       {
+        "id": 3,
         "name": "Bhapa Doi",
         "ingredients": [
           "yogurt",
@@ -120,18 +129,21 @@
     "likes": 6000,
     "recipes": [
       {
+        "id": 1,
         "name": "Machher Jhol",
         "ingredients": ["fish", "onion", "garlic", "ginger", "green chili"],
         "cooking_method": "1. Heat oil in a pan, add onion, garlic and ginger, fry until golden brown. 2. Add fish and cook for 5-7 minutes. 3. Add green chili, salt, turmeric powder and water. 4. Simmer for 10-12 minutes until the fish is cooked. Serve hot with rice.",
         "rating": 4.5
       },
       {
+        "id": 2,
         "name": "Kosha Mangsho",
         "ingredients": ["beef", "onion", "ginger", "garlic", "yogurt"],
         "cooking_method": "1. Heat oil in a pan, add onion, ginger and garlic, fry until golden brown. 2. Add beef and cook for 10-15 minutes. 3. Add yogurt, salt, cumin powder, coriander powder and red chili powder. 4. Simmer for 30-35 minutes until the beef is tender. Serve hot with naan or rice.",
         "rating": 4.8
       },
       {
+        "id": 3,
         "name": "Mishti Doi",
         "ingredients": ["milk", "yogurt", "sugar"],
         "cooking_method": "1. Boil milk in a pan, then let it cool down. 2. Add yogurt and sugar to the milk, mix well. 3. Pour the mixture into small clay pots. 4. Place the pots in a warm place and let the mixture ferment for 6-8 hours. 5. Chill before serving.",
@@ -149,18 +161,21 @@
     "likes": 4000,
     "recipes": [
       {
+        "id": 1,
         "name": "Morog Polao",
         "ingredients": ["chicken", "basmati rice", "onion", "ginger", "garlic"],
         "cooking_method": "1. Marinate the chicken with yogurt, salt, turmeric and chili powder. 2. Soak the rice in water for 20-30 minutes. 3. Heat oil in a pan, add onion, ginger and garlic, fry until golden brown. 4. Add the marinated chicken and cook for 25 minutes. 5.Ready to eat after finished all process.",
         "rating": 4.8
       },
       {
+        "id": 2,
         "name": "Fish Bhuna",
         "ingredients": ["fish", "onion", "garlic", "ginger", "tomato"],
         "cooking_method": "1. Heat oil in a pan, add onion, garlic and ginger, fry until golden brown. 2. Add fish and cook for 5-7 minutes. 3. Add tomato, salt, turmeric powder and water. 4. Simmer for 10-12 minutes until the fish is cooked. Serve hot with rice or naan.",
         "rating": 4.2
       },
       {
+        "id": 3,
         "name": "Bhapa Doi",
         "ingredients": ["milk", "yogurt", "sugar", "cardamom", "rose water"],
         "cooking_method": "1. Boil milk in a pan, then let it cool down. 2. Add yogurt, sugar, cardamom and rose water to the milk, mix well. 3. Pour the mixture into a greased dish. 4. Place the dish in a steamer and steam for 15-20 minutes. 5. Chill before serving.",
@@ -178,6 +193,7 @@
     "likes": 4500,
     "recipes": [
       {
+        "id": 1,
         "name": "Beef Bhuna Khichuri",
         "ingredients": [
           "beef",
@@ -192,6 +208,7 @@
         "rating": 4.6
       },
       {
+        "id": 2,
         "name": "Prawn Malai Curry",
         "ingredients": [
           "prawn",
@@ -206,6 +223,7 @@
         "rating": 4.8
       },
       {
+        "id": 3,
         "name": "Mango Lassi",
         "ingredients": ["mango", "yogurt", "milk", "sugar", "cardamom"],
         "cooking_method": "1. Peel and chop mango into small pieces. 2. Blend mango, yogurt, milk, sugar and cardamom in a blender until smooth. 3. Pour the mixture into glasses. 4. Chill before serving.",
