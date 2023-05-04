@@ -18,7 +18,6 @@ app.get('/categories/:id', (req, res) =>{
     const id = req.params.id;
     const singleChef = categories.find(pd => pd.id == id);
     res.send({singleChef});
-    
 })
 
 app.listen(port, () => {
